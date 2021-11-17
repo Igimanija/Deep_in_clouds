@@ -23,3 +23,5 @@ to commit:
 	
 to push:
 	git push -u origin master
+	
+potrebni podaci sacuvane na gedit .gitconfig
