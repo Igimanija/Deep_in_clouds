@@ -1,0 +1,25 @@
+git config --global user.name "igimanija"
+git config --global user.email "igzy.2001@gmail.com"
+
+git config --list
+
+gedit for edditing 555
+
+to clone reposotory:
+	go on git and copy the url(in green thing)
+	and command: git clone url
+
+creating file on  my computer:
+	touch HelloWorld.java
+
+to check if something is not changed:
+	git status
+
+to add in things that will be commited:
+	git add HelloWorld java
+
+to commit:
+	git commit -m "coment" HelloWorld.java
+	
+to push:
+	git push -u origin master
